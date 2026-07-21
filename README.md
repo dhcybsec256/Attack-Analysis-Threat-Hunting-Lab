@@ -51,3 +51,9 @@ This project reflects the practical workflow of a SOC analyst or incident respon
 ---
 
 ## Project Structure
+├── docs/
+│ └── Attack-Analysis-and-Threat-Hunting-Report.pdf
+├── README.md
+---
+
+The full report (80 pages) contains the complete methodology, evidence, screenshots, custom Suricata rule justifications, jq query breakdowns, attack timelines, and MITRE ATT&CK mappings for all six exercises.
