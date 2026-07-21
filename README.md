@@ -126,10 +126,4 @@ T1566.002 Spear Phishing, T1204 User Execution, T1059 Command and Scripting Inte
 
 The full report (PDF) is included in this repository and contains complete methodology write-ups, Wireshark and Suricata screenshots, jq commands with line-by-line explanations, VirusTotal and OSINT evidence, full attack timelines, and detailed remediation recommendations for every exercise.
 
-## Skills Demonstrated
 
-Network Forensics, Malware Analysis, Phishing Investigation, IDS/IPS Rule Authoring, Threat Hunting, MITRE ATT&CK Mapping, Incident Response (NIST Framework), OSINT Investigation, Command-Line Log Analysis (jq), Wireshark Protocol Analysis, Suricata Configuration and Deployment.
-
----
-
-This project is part of an ongoing cybersecurity portfolio focused on blue team and SOC analyst work. See other repositories for additional malware analysis and SOC analyst simulation projects.
